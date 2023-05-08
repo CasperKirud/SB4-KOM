@@ -25,7 +25,9 @@
         <module name="OSGiLibGDX" />
         <module name="AgeCalculatorSpring" />
         <module name="CommonEnemy (1)" />
+        <module name="Bullet (3)" />
         <module name="Collision (2)" />
+        <module name="Asteroid (4)" />
         <module name="OSGiCommon" />
         <module name="HelloWorld" />
         <module name="DictionaryDemo" />
@@ -34,16 +36,17 @@
         <module name="ExtendedDictionary" />
         <module name="Core (1)" />
         <module name="Common (3)" />
+        <module name="Asteroid (1) (org.example)" />
         <module name="Bullet (2)" />
-        <module name="Collision (1)" />
+        <module name="Collision (1) (org.example)" />
         <module name="SilentUpdate" />
         <module name="Enemy (1)" />
         <module name="Asteroid (3)" />
         <module name="common" />
         <module name="Core (4)" />
         <module name="CommonBullet (2)" />
+        <module name="Bullet (1) (org.example)" />
         <module name="player" />
-        <module name="Bullet (1)" />
         <module name="OSGiEnemy" />
         <module name="Player (2)" />
         <module name="Enemy (2)" />
@@ -53,6 +56,7 @@
         <module name="Core (3)" />
         <module name="Common (1)" />
         <module name="CommonBullet (1)" />
+        <module name="Collision (4)" />
         <module name="CommonAsteroids (2)" />
         <module name="Player (3)" />
         <module name="NBRuntimeExample12-branding" />
@@ -63,9 +67,13 @@
     <bytecodeTargetLevel>
       <module name="Asteroid" target="9" />
       <module name="Bullet" target="9" />
+      <module name="Bullet (1)" target="1.8" />
       <module name="Collision" target="9" />
+      <module name="Collision (1)" target="9" />
       <module name="Common" target="9" />
       <module name="CommonAsteroids" target="9" />
+      <module name="CommonAsteroids (1) (org.example)" target="19" />
+      <module name="CommonAsteroids (3)" target="9" />
       <module name="CommonBullet" target="9" />
       <module name="CommonEnemy" target="9" />
       <module name="Core" target="9" />
