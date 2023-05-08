@@ -26,8 +26,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
-public class Game
-        implements ApplicationListener {
+public class Game implements ApplicationListener {
 
     private static OrthographicCamera cam;
     private ShapeRenderer sr;
@@ -81,8 +80,8 @@ public class Game
             entityProcessorService.process(gameData, world);
         }
 
-        for (IPostEntityProcessingService iPostEntityProcessingService : getPostEntityProcessingServices()) {
-            iPostEntityProcessingService.process(gameData, world);
+        for (IPostEntityProcessingService postEntityProcessingService : getPostEntityProcessingServices()) {
+            postEntityProcessingService.process(gameData, world);
         }
     }
 
