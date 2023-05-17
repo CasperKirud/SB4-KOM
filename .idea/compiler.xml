@@ -13,6 +13,7 @@
         <module name="OSGiCommonEnemy" />
         <module name="Enemy (3)" />
         <module name="Asteroid (1)" />
+        <module name="CommonPlayer" />
         <module name="OSGiAsteroids" />
         <module name="OSGiCore" />
         <module name="Core (2)" />
@@ -36,6 +37,7 @@
         <module name="ExtendedDictionary" />
         <module name="Core (1)" />
         <module name="Common (3)" />
+        <module name="CommonBullet (1) (org.example)" />
         <module name="Asteroid (1) (org.example)" />
         <module name="Bullet (2)" />
         <module name="Collision (1) (org.example)" />
@@ -72,10 +74,10 @@
       <module name="Collision (1)" target="9" />
       <module name="Common" target="9" />
       <module name="CommonAsteroids" target="9" />
-      <module name="CommonAsteroids (1) (org.example)" target="19" />
-      <module name="CommonAsteroids (3)" target="9" />
+      <module name="CommonAsteroids (1) (org.example)" target="11" />
       <module name="CommonBullet" target="9" />
       <module name="CommonEnemy" target="9" />
+      <module name="CommonEnemy (1) (org.example)" target="11" />
       <module name="Core" target="9" />
       <module name="Core (1) (dk.sdu.mmmi.cbse)" target="11" />
       <module name="Enemy" target="9" />
