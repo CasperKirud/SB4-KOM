@@ -37,11 +37,10 @@
         <module name="ExtendedDictionary" />
         <module name="Core (1)" />
         <module name="Common (3)" />
-        <module name="CommonBullet (1) (org.example)" />
         <module name="Asteroid (1) (org.example)" />
         <module name="Bullet (2)" />
-        <module name="Collision (1) (org.example)" />
         <module name="SilentUpdate" />
+        <module name="Collision (1)" />
         <module name="Enemy (1)" />
         <module name="Asteroid (3)" />
         <module name="common" />
@@ -71,11 +70,12 @@
       <module name="Bullet" target="9" />
       <module name="Bullet (1)" target="1.8" />
       <module name="Collision" target="9" />
-      <module name="Collision (1)" target="9" />
+      <module name="Collision (1) (org.example)" target="9" />
       <module name="Common" target="9" />
       <module name="CommonAsteroids" target="9" />
       <module name="CommonAsteroids (1) (org.example)" target="11" />
       <module name="CommonBullet" target="9" />
+      <module name="CommonBullet (1) (org.example)" target="9" />
       <module name="CommonEnemy" target="9" />
       <module name="CommonEnemy (1) (org.example)" target="11" />
       <module name="Core" target="9" />

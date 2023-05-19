@@ -34,6 +34,7 @@ public class BulletControlSystem implements IEntityProcessingService, BulletSPI 
             setShape(bullet);
         }
     }
+
     @Override
     public Entity createBullet(Entity shooter, GameData gameData) {
         PositionPart shooterPos = shooter.getPart(PositionPart.class);

@@ -19,6 +19,7 @@ public class CollisionDetector implements IPostEntityProcessingService {
                 // if the two entities are identical, skip the iteration
                 if (entity.getID().equals(collisionDetection.getID())) {
                     continue;
+
                     // remove entities with zero in expiration
                 }
 
